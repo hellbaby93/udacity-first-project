@@ -69,3 +69,8 @@ After the deployment, you can login to the Azure Portal and see the correspondin
 Along the deployment, there was an Azure policy deployed to make sure that all resource must have tags to make it easier to manage:
 
 ![policy](policy.png "tagging policy in Azure")
+
+Please note that all of the contents being written in here are based on HarshiCorp documentation pages:
+
+- https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs
+- https://www.packer.io/docs/templates
